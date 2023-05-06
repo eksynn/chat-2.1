@@ -1,7 +1,13 @@
 # Plugin issues
 
-Please make an issue here if you have a confirmed bug with one of my plugins. This is **not somewhere to request features**.
+Decided to fork and make my own modifications to chat 2, since anna doesn't listen to requests
 
----
+-♡-
 
-My plugins are not "dead"; I am struggling with depression, and the goat place Discord is not a good environment for that. I apologise if your issues are being ignored, but please rest assured that I do read them all and will eventually get to most of them.
+all it'll do is, ontop of chat 2 features:
+• it'll add a button to toggle the focus from pressing enter to go to either chat 2.1 or to the original ui
+• if i ever figure out how to, i'll also add a button to copy the settings from the original UI to c2.1
+
+-♡-
+
+don't expect great things, nor for me to keep this updated
